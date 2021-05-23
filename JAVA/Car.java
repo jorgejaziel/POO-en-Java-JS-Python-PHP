@@ -1,4 +1,4 @@
-package CursoPOOuber.JAVA;
+package JAVA;
 
 public class Car {
     Integer id;

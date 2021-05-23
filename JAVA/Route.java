@@ -1,4 +1,4 @@
-package CursoPOOuber.JAVA;
+package JAVA;
 
 import java.util.ArrayList;
 
